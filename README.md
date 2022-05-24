@@ -22,7 +22,7 @@ The purpose of this project was to practice building a mock back end build. Focu
 To use this project you will need to make sure you have MySQL installed and then you can git clone the repository to your own computer. 
 
 ## Usage
-To use this project you will need to install all the dependecies with an npm i. You will need Sequalize, Express.js, dotenv, MYSQL. Fist thing you will need to do is create the database. You can do that in mysql once in the darabse by using: source schema.sql. You can then seed the data with node seeds/index.js from the command line. The run npm start to start the server and synch all the data. Then you can test the routes with Insomnia. The following link is a walkthough on how to use: 
+To use this project you will need to install all the dependecies with an npm i. You will need Sequalize, Express.js, dotenv, MYSQL. Fist thing you will need to do is create the database. You can do that in mysql once in the darabse by using: source schema.sql. You can then seed the data with node seeds/index.js from the command line. The run npm start to start the server and synch all the data. Then you can test the routes with Insomnia. The following link is a walkthough on how to use: https://youtu.be/UOokYo6NFlY
 
 ![alt text](/Screen%20Shot%202022-05-23%20at%209.32.18%20PM.png)
 
